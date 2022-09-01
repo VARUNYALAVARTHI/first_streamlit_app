@@ -1,7 +1,3 @@
 import streamlit
 
-streamlit.title('My parents New Healthy Diner
-Breakfast Menu
-dosa
-idly
-vada')
+streamlit.title('My parents New Healthy Diner  Breakfast Menu vada ')
